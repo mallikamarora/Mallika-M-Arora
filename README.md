@@ -1,4 +1,4 @@
-Hi there!, I am Mallika, a professional data analystan with a passion for uncovering insights through data.
+Hi there!, I am Mallika, a professional data analyst with a passion for uncovering insights through data.
 I enjoy working with tools like SQL, Excel, Power BI and Tableau for data manipulation and visualization.
 🔍 Currently expanding my skills in data wrangling, data visualization, and machine learning.
 
